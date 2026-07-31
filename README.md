@@ -3,7 +3,7 @@
 RESTful API для управления личными задачами, построенный на **Django REST Framework**.  
 Позволяет создавать, просматривать и обновлять задачи с полной изоляцией данных между пользователями.
 
-![CI](https://github.com/wuuuuuw02/taskmanager-api/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/wuuuuuw02/TaskManagerAPI/actions/workflows/ci.yml/badge.svg)
 
 ## ✨ Основные возможности
 
